@@ -27,6 +27,7 @@ items = [
  ("Leggings", name("Snagharpoon", "tidal:pirata_one", ["#C8A873","#9AA3AD","#6F7B87"])),
  ("Boots", name("Hundred-Footed Death Maggot", "tidal:new_rocker", ["#C9D94A","#8FA832","#A32626"])),
  ("Mace", name("Hearse", "tidal:pirata_one", ["#F2EFE6","#8A8F98"])),
+ ("Spear", name("The Pequod Captain", "tidal:pirata_one", ["#4A6FB5","#C9A24B","#FF6A2B"])),
 ]
 print("Hold the item in your main hand, then paste its line into the SERVER CONSOLE (no leading slash).")
 print("Each command only changes the item's name; enchantments and durability are kept.\n")
